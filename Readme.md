@@ -29,10 +29,10 @@ The following is a screenshot of the weather dashboard, showcasing the 5-day for
 
 You can try the application here:
 
-[**City Weather Dashboard**](https://amandeepsandhu13.github.io/geo-city-weather/)
+[**City Weather Dashboard**](https://mrgithubby.github.io/Weather-Tracker3/)
 
 ## Repository
 
 You can find the source code in the GitHub repository:
 
-[**City Weather Repository**](https://github.com/MrGithubby/Weather-Tracker)
+[**City Weather Repository**](https://github.com/MrGithubby/Weather-Tracker3)
