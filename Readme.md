@@ -23,8 +23,6 @@ Replace `{lat}`, `{lon}`, and `{API key}` with the appropriate values to retriev
 
 The following is a screenshot of the weather dashboard, showcasing the 5-day forecast and the list of cities retrieved from **LocalStorage**:
 
-![Weather Dashboard](./assets/images/displayTemp.png)
-
 ## Live Demo
 
 You can try the application here:
